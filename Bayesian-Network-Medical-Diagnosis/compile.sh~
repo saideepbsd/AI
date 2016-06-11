@@ -1,2 +1,0 @@
-#!/bin/bash
-g++ startup_code.cpp -o dude
